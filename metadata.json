@@ -1,0 +1,8 @@
+{
+  "name": "Anita - Assistante Personnelle",
+  "description": "Votre assistante de projet personnelle, sérieuse et efficace.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
