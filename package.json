@@ -1,3 +1,4 @@
+
 {
   "name": "anita-pro",
   "private": true,
@@ -9,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@google/genai": "^0.1.0",
+    "@google/generative-ai": "^0.7.0",
     "jspdf": "^2.5.1",
     "mammoth": "^1.6.0",
     "pdfjs-dist": "^3.11.174",
